@@ -71,7 +71,7 @@ ___
 }
 ```
 ___
- to quote  Text you  youse ">" and the thext will show upa like  this :
+ to quote  Text you use ">" and the thext will show upa like  this :
 
  > quaoted text expemple
 ___
